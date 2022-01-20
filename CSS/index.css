@@ -1,0 +1,10 @@
+
+.members a, .members del {
+	display: block;
+	text-align: center;
+	font-size: 1.3em;
+}
+
+.members #pete {
+	color: gray;
+}
